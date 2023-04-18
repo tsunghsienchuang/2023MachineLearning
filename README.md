@@ -9,6 +9,8 @@
 >>Understand recursive neural networks (RNNs).
 >>>Task: Multiclass Classification:Framewise phoneme prediction from speech\
 >>>Dataset LibriSpeech (subset of train-clean-100)
+>>>>>>![image](https://github.com/tsunghsienchuang/2023springMLcourses/blob/main/HW2.png)
+
 
 
 >HW3
