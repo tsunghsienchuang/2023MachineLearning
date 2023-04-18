@@ -38,9 +38,9 @@ Embedding) on the output of both top & mid layers
 >>>>○ "speakers": A dictionary.\
 >>>>■ Key: speaker ids\
 >>>>■ Value: "feature_path" and "mel_len"
->>>>![image](https://github.com/tsunghsienchuang/2023springMLcourses/blob/main/HW3.png)
->>>>![image](https://github.com/tsunghsienchuang/2023springMLcourses/blob/main/HW3.png)
->>>>![image](https://github.com/tsunghsienchuang/2023springMLcourses/blob/main/HW3.png)
+>>>>![image](https://github.com/tsunghsienchuang/2023springMLcourses/blob/main/HW4.png)
+>>>>![image](https://github.com/tsunghsienchuang/2023springMLcourses/blob/main/HW41.png)
+>>>>![image](https://github.com/tsunghsienchuang/2023springMLcourses/blob/main/HW42.png)
 
 
 >HW5
