@@ -22,7 +22,7 @@ Embedding) on the output of both top & mid layers
 >>>● Training set: 10000 labeled images\
 >>>● Validation set: 3643 labeled images\
 >>>● Testing set: 3000 images without labeled
->>>![image](https://github.com/tsunghsienchuang/2023springMLcourses/blob/main/%E6%88%AA%E5%9C%96%202023-04-18%20%E4%B8%8B%E5%8D%881.00.36.png "Work flow")
+>>>![image](https://github.com/tsunghsienchuang/2023springMLcourses/blob/main/HW3.png)
 
 >HW4
 >>Task: Multiclass Classification:Predict speaker class from given speech.
