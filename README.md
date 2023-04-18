@@ -53,21 +53,16 @@ Embedding) on the output of both top & mid layers
 
 
 >HW6
->>Task introduction - Diffusion Model\
->>Project some random variables into specific space\
->>Diffusion Process: forward process and reverse process
-
->>>Learning rate scheduling\
->>>Label smoothing\
->>>Back translation\
+>>Task introduction - Anime face generation\
+>>Input: random number
+>>Output: Anime face
+>>Implementation requirement: Diffusion Model
+>>Target: generate 1000 anime face images
 >>>Dataset
->>>>Paired data\
->>>>○ TED2020: TED talks with transcripts translated by a global community of volunteers to\
->>>>more than 100 language\
->>>>○ We will use (en, zh-tw) aligned pairs\
->>>>● Monolingual data\
->>>>○ More TED talks in traditional Chinese
-![image](https://github.com/tsunghsienchuang/2023springMLcourses/blob/main/%E6%88%AA%E5%9C%96%202023-04-18%20%E4%B8%8B%E5%8D%881.00.36.png "Work flow")
+>>>Crypko
+>>>Website which can generate anime face by yourself
+>>>Thanks Arvin Liu for collecting the dataset
+![image](https://github.com/tsunghsienchuang/2023springMLcourses/blob/main/%E6%88%AA%E5%9C%96%202023-04-18%20%E4%B8%8B%E5%8D%881.09.44.png)
 
 
 
