@@ -4,9 +4,10 @@
 >>COVID-19 Cases Prediction
 >>>Given survey results in the past 3 days in a specific state in U.S., then predict the percentage of new tested positive cases in the 3rd day
 - [x] HW1 Regression
->HW1
->>COVID-19 Cases Prediction
->>>Given survey results in the past 3 days in a specific state in U.S., then predict the percentage of new tested positive cases in the 3rd day
+>HW2
+>>Solve a classification problem with deep neural networks (DNNs)
+>>Understand recursive neural networks (RNNs).
+>>>Task: Multiclass Classification:Framewise phoneme prediction from speech
 - [x] HW2 Classification
 - [x] HW3 Convolutional Neural Networks(CNN)
 - [x] HW4 Self-attention
