@@ -39,6 +39,9 @@ Embedding) on the output of both top & mid layers
 
 >HW5
 >>Machine Translation:In this homework, we’ll translate English to Traditional Chinese
+>>>Learning rate scheduling\
+>>>Label smoothing\
+>>>Back translation\
 >>>Dataset
 >>>>Paired data\
 >>>>○ TED2020: TED talks with transcripts translated by a global community of volunteers to\
@@ -46,7 +49,25 @@ Embedding) on the output of both top & mid layers
 >>>>○ We will use (en, zh-tw) aligned pairs\
 >>>>● Monolingual data\
 >>>>○ More TED talks in traditional Chinese
-![GITHUB]("圖片名稱")
+![image](https://github.com/tsunghsienchuang/2023springMLcourses/blob/main/%E6%88%AA%E5%9C%96%202023-04-18%20%E4%B8%8B%E5%8D%881.00.36.png "Work flow")
+
+
+>HW6
+>>Task introduction - Diffusion Model\
+>>Project some random variables into specific space\
+>>Diffusion Process: forward process and reverse process
+
+>>>Learning rate scheduling\
+>>>Label smoothing\
+>>>Back translation\
+>>>Dataset
+>>>>Paired data\
+>>>>○ TED2020: TED talks with transcripts translated by a global community of volunteers to\
+>>>>more than 100 language\
+>>>>○ We will use (en, zh-tw) aligned pairs\
+>>>>● Monolingual data\
+>>>>○ More TED talks in traditional Chinese
+![image](https://github.com/tsunghsienchuang/2023springMLcourses/blob/main/%E6%88%AA%E5%9C%96%202023-04-18%20%E4%B8%8B%E5%8D%881.00.36.png "Work flow")
 
 
 
