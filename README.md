@@ -58,10 +58,10 @@ Embedding) on the output of both top & mid layers
 >>Output: Anime face
 >>Implementation requirement: Diffusion Model
 >>Target: generate 1000 anime face images
->>>Dataset
->>>Crypko
->>>Website which can generate anime face by yourself
->>>Thanks Arvin Liu for collecting the dataset
+>>>Dataset\
+>>>Crypko\
+>>>Website which can generate anime face by yourself\
+>>>Thanks Arvin Liu for collecting the dataset\
 ![image](https://github.com/tsunghsienchuang/2023springMLcourses/blob/main/%E6%88%AA%E5%9C%96%202023-04-18%20%E4%B8%8B%E5%8D%881.09.44.png)
 
 
