@@ -1,7 +1,7 @@
 
 # Machine Learning Course Project
 
-This repository contains projects and assignments for the Machine Learning course (EE5184) taught by Professor Hsuan-Tien Lin at National Taiwan University.
+This repository contains projects and assignments for the Machine Learning course (EE5184) taught by Professor HUNG-YI LEE at National Taiwan University.
 
 ## Course Description
 
